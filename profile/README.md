@@ -2,7 +2,7 @@
 
 ![Logo](https://lymox.net/lymox/lymox-01.png)
 
-Hey, schön, dass du hier bist! 👋 Willkommen im GitHub-Repository von Lymox.net. Dies ist der sichere Ort, an dem die Codes von Lymox.net aufbewahrt und von unserem Coding-Maestro FLUFFIXYT betreut werden. 🌐✨
+Hey, schön, dass du hier bist! 👋 Willkommen im GitHub-Repository von Lymox.net. Dies ist der sichere Ort, an dem die Codes von Lymox.net aufbewahrt und von unserem Coding-Maestro @FlorianPW betreut werden. 🌐✨
 
 ## Über Uns
 
